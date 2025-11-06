@@ -1,6 +1,6 @@
 # 🚀 Deep Q-Learning for Lunar Landing 🌕
 
-This project implements a **Deep Q-Learning (DQN)** agent to solve the **LunarLander-v3** environment from **Gymnasium**.  
+This project implements a **Deep Q-Learning (DQN)** agent to solve the **LunarLander** environment from **Gymnasium**.  
 The mission: 🛰️ train an AI pilot that learns to land a spacecraft safely on a designated landing pad using **reinforcement learning**.
 
 ---
@@ -39,7 +39,7 @@ These key libraries are required for the project:
 
 | Library | Version | Purpose |
 |----------|----------|----------|
-| 🧩 Gymnasium | 1.2.2 | Environment simulation (`LunarLander-v3`) |
+| 🧩 Gymnasium | 1.2.2 | Environment simulation (`LunarLander`) |
 | 🔥 PyTorch | latest (CUDA compatible) | Deep learning models |
 | 🔢 NumPy | 2.0.2 | Numerical operations |
 | ⚙️ Box2D-py | 2.3.5 | Physics engine |
